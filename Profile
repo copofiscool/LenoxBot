@@ -1,1 +1,1 @@
-worker: node lenoxbotlauncher.js
+worker: node index.js
